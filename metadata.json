@@ -1,0 +1,8 @@
+{
+  "name": "Jyoti ANM Digital Sahayata",
+  "description": "A digital assistant for ANMs in Bihar to calculate EDD/LMP and track immunization schedules accurately.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
