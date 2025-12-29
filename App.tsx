@@ -14,7 +14,8 @@ import {
 import { format, parseISO, isValid, isAfter, isBefore, startOfToday, addDays } from 'date-fns';
 import { getGeminiResponse } from './services/geminiService';
 
-const LOGO_URL = "https://raw.githubusercontent.com/fede-navas/test-images/main/jyoti-avatar.jpg";
+// Updated Logo URL to the new provided branding
+const LOGO_URL = "https://raw.githubusercontent.com/fede-navas/test-images/main/jyoti-new-branding.png";
 const USER_IMAGE_KEY = "jyoti_app_user_profile_pic";
 
 declare global {
